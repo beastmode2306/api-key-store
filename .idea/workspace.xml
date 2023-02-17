@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="634826b4-2dff-4878-ae01-b407b33ad966" name="Changes" comment="" />
+    <list default="true" id="634826b4-2dff-4878-ae01-b407b33ad966" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/getUserKey.ts" beforeDir="false" afterPath="$PROJECT_DIR$/services/getUserKey.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/putUserKey.ts" beforeDir="false" afterPath="$PROJECT_DIR$/services/putUserKey.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +37,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu-22.04\\home\\maks\\work\\api-routes-rest-app\\node_modules\\prettier",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "ts.external.directory.path": "\\\\wsl$\\Ubuntu-22.04\\home\\maks\\work\\api-routes-rest-app\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -45,6 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676552667133</updated>
       <workItem from="1676552668292" duration="12406000" />
+      <workItem from="1676627073679" duration="1025000" />
+      <workItem from="1676628124865" duration="5368000" />
     </task>
     <servers />
   </component>

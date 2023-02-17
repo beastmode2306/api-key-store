@@ -1,14 +1,14 @@
 export type UserKey = {
-  KeyName: string
-  KeyValue: string
-}
+    KeyName: string;
+    KeyValue: any;
+};
 
 export type KeyData = {
-  UserId: string
-  Keys: UserKey[]
-}
+    UserId: string;
+    Keys: UserKey[];
+};
 
 export type FormattedResponse<T> = {
-  message?: string
-  data: T
-}
+    message?: any;
+    data: T;
+};
